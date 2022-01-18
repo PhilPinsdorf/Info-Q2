@@ -3,7 +3,7 @@ import java.util.stack;
 public class StackExample {
     public static void main(String[] args){
       // Create new stack  
-      Stack stack = new Stack();
+      Stack<Integer> stack = new Stack<Integer>();
           
       // Put Entrys in stack
       stack.push(5);
