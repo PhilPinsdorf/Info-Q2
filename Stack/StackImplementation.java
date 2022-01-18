@@ -1,15 +1,5 @@
 import java.util.stack;
 
-/*
-  LIFO: Last In First Out
-  You can only access the top Element of the stack like a stack of paper 
-
-  Methods: 
-    peek  =>  Read top entry without removing
-    pop 	=>  Read top entry with removing
-    push  =>  Put new entry ontop of the stack
-*/
-
 public class StackImplementation {
     public static void main(String[] args){
       // Create new stack  
