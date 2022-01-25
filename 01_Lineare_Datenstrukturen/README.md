@@ -8,5 +8,5 @@ Eine lineare Datenstruktur L der Länge n ist eine Sequenz L = (a1, ..., an). Di
 - Schlange (Queue)
 
 ## Quelle
-Standardsicherung NRW Informatik \
-https://www.standardsicherung.schulministerium.nrw.de/cms/zentralabitur-wbk/faecher/getfile.php?file=2149 
+- https://www.standardsicherung.schulministerium.nrw.de/cms/zentralabitur-wbk/faecher/getfile.php?file=2149 
+- https://de.wikiversity.org/wiki/Kurs:Algorithmen_und_Datenstrukturen/Vorlesung/Lineare_Datenstrukturen
